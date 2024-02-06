@@ -10,6 +10,8 @@ La consigne d’orientation sera donnée sous la forme d’un angle par rapport 
 
 Vous utilisez un servo-moteur à rotation continue, commandé en vitesse, ainsi qu’un magnétomètre pour connaitre son orientation. 
 
+![vehiculeAntenne](https://github.com/max848484/243-620-H24_Labo1/assets/156249332/e0dba8f5-1d8a-4347-b549-5ab6d6e73dd1)
+
 ## 1. Moteur en boucle ouverte 
 
 Réalisez un montage préliminaire simple et démontrez que vous pouvez : 
